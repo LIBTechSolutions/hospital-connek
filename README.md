@@ -1,4 +1,4 @@
-# sis-offline-application
+# Hospital-Connek-application
 
 An offline application for Health Information System.
 
