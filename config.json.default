@@ -1,0 +1,31 @@
+{
+    },
+    "allowed_users": {
+      "zikollie@gmail.com": {
+        "password": "kollie12345",
+        "role": "administrator"
+      },
+      "administrator@gmail.com": {
+        "password": "kollie12345",
+        "role": "administrator"
+      },
+      "doctor@gmail.com": {
+        "password": "kollie12345",
+        "role": "teacher"
+      },
+      "registrar@gmail.com": {
+        "password": "kollie12345",
+        "role": "registrar"
+      }
+    },
+    "db": {
+      "case": {
+        "local": "",
+        "remote": "",
+        "auth": {
+          "username": "",
+          "password": ""
+        }
+      }
+    }
+  }
